@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+redis
+python-dotenv
+pytest
+httpx
